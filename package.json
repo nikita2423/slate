@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "slate-packages",
+  "name": "snaphy-slate-packages",
   "workspaces": [
     "packages/*"
   ],

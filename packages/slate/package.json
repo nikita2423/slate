@@ -1,9 +1,9 @@
 {
-  "name": "slate",
+  "name": "snaphy-slate",
   "description": "A completely customizable framework for building rich text editors.",
-  "version": "0.58.3",
+  "version": "1.0.0",
   "license": "MIT",
-  "repository": "git://github.com/ianstormtaylor/slate.git",
+  "repository": "https://github.com/nikita2423/slate.git",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
@@ -20,6 +20,10 @@
     "is-plain-object": "^3.0.0",
     "tiny-warning": "^1.0.3"
   },
+   "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@nikita2423"
+  },
+  
   "keywords": [
     "canvas",
     "contenteditable",
